@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Fidias
 
 ## This is my public repository listing all my data engineering projects.
-🌱 I’m currently expanding my python and SQL skills. I have used AWS, Kafka, Spark and Databricks in my projects so far.
-📫 You can get in touch with me on Linkedin: https://www.linkedin.com/in/fidias-ieridis/
+- 🌱 I’m currently expanding my python and SQL skills. I have used AWS, Kafka, Spark and Databricks in my projects so far.
+- 📫 You can get in touch with me on Linkedin: https://www.linkedin.com/in/fidias-ieridis/
 
 
 <!--
