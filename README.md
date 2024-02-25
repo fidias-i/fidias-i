@@ -1,13 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Fidias
 
 ## This is my public repository listing all my data engineering projects.
+🌱 I’m currently expanding my python and SQL skills. I have used AWS, Kafka, Spark and Databricks in my projects so far.
+📫 You can get in touch with me on Linkedin: https://www.linkedin.com/in/fidias-ieridis/
+
+
 <!--
 **fidias-i/fidias-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
